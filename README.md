@@ -5,9 +5,9 @@ This project reads data from an RDM6300 RFID reader and writes it to an RC522 RF
 ## Hardware Requirements
 
 - Arduino UNO
-- RDM6300 RFID Reader
-- RC522 RFID Writer
-- Breadboard and connecting wires
+- RDM6300 RFID Reader and Writer
+- RC522 RFID Writer and Reader
+- Connecting wires
 
 ## Setup
 
