@@ -1,3 +1,5 @@
+**This is version 1.0V, the next version (1.1V) will include a 3D model to arrange everything together and a circuit diagram.
+
 # RFID Project
 
 This project reads data from an RDM6300 RFID reader and writes it to an RC522 RFID writer. The data is then verified by reading it back from the RC522.
