@@ -1,5 +1,6 @@
 **This is version 1.0V, the next version (1.1V) will include a 3D model to arrange everything together and a circuit diagram.
 
+This product will give you the ability to take any component that transmits at 13.56 MHz and write it onto a tag that operates at 125 kHz! This means you can adapt systems with, for example, iPhone NFC to a home system in a more cost-effective way.
 # RFID Project
 
 This project reads data from an RDM6300 RFID reader and writes it to an RC522 RFID writer. The data is then verified by reading it back from the RC522.
